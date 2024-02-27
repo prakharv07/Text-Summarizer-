@@ -1,4 +1,3 @@
 Spacy
-string
 heapq
 Flask
